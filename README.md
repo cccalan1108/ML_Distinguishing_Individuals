@@ -1,6 +1,6 @@
 # ML Distinguishing JJ Lin from Look-Alikes
 
-A machine learning project that implements Convolutional Neural Networks (CNN) and Fully Connected Neural Networks (NN) from scratch using only NumPy to distinguish Jay Chou (周杰倫) from look-alike individuals. This educational project demonstrates fundamental deep learning concepts through complete implementation without relying on high-level frameworks.
+A machine learning project that implements Convolutional Neural Networks (CNN) and Fully Connected Neural Networks (NN) from scratch using only NumPy to distinguish JJ-Lin (林俊傑 Lin Jun Jie) from look-alike individuals. This educational project demonstrates fundamental deep learning concepts through complete implementation without relying on high-level frameworks.
 
 ## 📋 Table of Contents
 
