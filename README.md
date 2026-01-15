@@ -4,8 +4,7 @@ A machine learning project that implements Convolutional Neural Networks (CNN) a
 
 # Members
 National Taiwan University : 
-CHANG, CHUN-CHIEH  &  
-CHO, TING-CHEN
+CHANG, CHUN-CHIEH  &  CHO, TING-CHEN
 
 
 ## 📋 Table of Contents
