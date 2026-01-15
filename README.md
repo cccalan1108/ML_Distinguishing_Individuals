@@ -3,7 +3,7 @@
 A machine learning project that implements Convolutional Neural Networks (CNN) and Fully Connected Neural Networks (NN) using PyTorch to distinguish JJ Lin (林俊傑, Lim Jun Jie) from non-JJ Lin individuals in unconstrained images. This study investigates the feasibility of building an automated binary classifier capable of identifying a specific public figure from individuals who share similar facial characteristics.
 
 # Members
-National Taiwan University
+National Taiwan University : 
 CHANG, CHUN-CHIEH 
 CHO, TING-CHEN
 
